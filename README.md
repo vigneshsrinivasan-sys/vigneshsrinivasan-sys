@@ -1,6 +1,6 @@
 # Vignesh Srinivasan
 
-Product Designer focused on UX/UI, design systems, and design-to-code craft.
+Product Designer (UX/UI) building front-end coding fluency through structured HTML/CSS projects and design-system practice, progressing toward JavaScript.
 
 I use HTML and CSS to turn visual and interaction decisions into working interfaces. These independent practice builds show a deliberate progression from semantic structure to responsive, component-oriented product UI.
 
