@@ -9,7 +9,7 @@ I use HTML and CSS to turn visual and interaction decisions into working interfa
 
 ## Selected builds
 
-- [SaaS Admin Dashboard](https://github.com/vigneshsrinivasan-sys/saas-admin-dashboard) — Exercise 27
+- [SaaS Admin Dashboard](https://github.com/vigneshsrinivasan-sys/exercise-27-saas-admin-dashboard) — Exercise 27
 - [Apex AI Feature Promo](https://github.com/vigneshsrinivasan-sys/exercise-26-apex-ai-feature-promo) — Exercise 26
 - [Dashboard Hero — Team Performance](https://github.com/vigneshsrinivasan-sys/exercise-25-dashboard-hero) — Exercise 25
 - [Report Summary](https://github.com/vigneshsrinivasan-sys/exercise-24-report-summary) — Exercise 24
