@@ -7,6 +7,10 @@ I use HTML and CSS to turn visual and interaction decisions into working interfa
 → [Design portfolio](https://vigneshsrinivasan.design/)  
 → [LinkedIn](https://www.linkedin.com/in/vignesh-srini/)
 
+## How to read the work
+
+Repositories are numbered **Exercise 01 → Exercise 27** in the order I built them. Start at [Exercise 01](https://github.com/vigneshsrinivasan-sys/exercise-01-semantic-resume) to follow the progression, or use the pinned builds for a quick view of the most advanced interfaces.
+
 ## Selected builds
 
 - [SaaS Admin Dashboard](https://github.com/vigneshsrinivasan-sys/exercise-27-saas-admin-dashboard) — Exercise 27
